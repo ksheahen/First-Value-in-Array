@@ -1,4 +1,4 @@
-# Assembly: First Value in an Array
+# First Value in an Array
 
 An assembly program displaying the first value in an array.
 
