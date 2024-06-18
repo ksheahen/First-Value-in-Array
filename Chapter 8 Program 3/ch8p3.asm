@@ -1,5 +1,4 @@
 ; Chapter 8 Program 3
-; Author: Kathryn Sheahen
 ; Date: 4/28/2024
 
 
